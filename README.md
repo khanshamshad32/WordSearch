@@ -8,5 +8,5 @@ A word search game to find words in a grid of alphabets.
 
 ![alt home](home.png)
 
-![alt home](word_search.mov)
+![alt home](demo.gif)
 
