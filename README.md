@@ -1,5 +1,5 @@
 # WordSearch - iOS
-**A iOS application.**
+**An iOS application.**
 
 **Created by Shamshad Khan**
 
